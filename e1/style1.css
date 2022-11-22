@@ -1,0 +1,16 @@
+body{
+
+
+color: red;
+background-color: purple;
+}
+header{
+    text-align: center;
+    font-size: x-large;
+}
+.yellow{
+    background-color: yellow;
+}
+#content{
+    width: 350px;
+}
